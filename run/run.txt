@@ -1,0 +1,2 @@
+run using this command
+python pyclient.py --port 3001 --stage 0 --maxEpisodes 1 --maxSteps 0               
